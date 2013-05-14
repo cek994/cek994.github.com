@@ -1,6 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
 body {
 	background-color: #35535C
-	font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	/*font-color: #fff;*/
 	text-align: center;
 }
